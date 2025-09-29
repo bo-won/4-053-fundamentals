@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+  padding: 2rem;
+  font-family: sans-serif;
+  color: #000;
+  background: #fff;
+  line-height: 1.5;
+  letter-spacing: .03rem;
+  min-height: 100vh;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 1rem;
+  margin: 0;
+  font-weight: 400;
+}
+
+.markdown h2, .markdown h3, .markdown p {
+  font-size: 1rem;
+  margin: 0;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+}
+
+.markdown ul {
+  list-style: none;         /* remove default bullets */
+  margin-left: 0em;       /* indent nested lists */
+  padding-left: 0;          /* reset padding */
+}
+
+.markdown ul ul {
+  list-style: none;
+  margin-left: 1.5em; /* indentation */
+  padding-left: 0;
+}
+
+.markdown a { color: #ff0000; text-decoration: none; }
+.markdown a:hover { text-decoration: underline; }
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+}
+
+footer {
+  position: fixed;
+  bottom: 0; left: 0; right: 0;
+  padding: 0 0 2rem 2rem;
+  font-size: 0.85rem;
+}
+
+section { 
+    margin: 3rem 0 0 0;
+}
+
+/* Responsive columns */
+@media (max-width: 1000px) {
+  .grid { grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 600px) {
+  .grid { grid-template-columns: 2fr; }
+  section { margin-top: 1em; }
+  #course { margin-top: 3em; } /* keep some rhythm for the first section */
+}
