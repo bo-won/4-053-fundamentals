@@ -1,13 +1,6 @@
 // script.js
 
 document.addEventListener('DOMContentLoaded', () => {
-  // Footer date (Month Year)
-  const now = new Date();
-  const month = now.toLocaleString('default', { month: 'long' });
-  const year = now.getFullYear();
-  const y = document.getElementById('y');
-  if (y) y.textContent = `${month} ${year}`;
-
   // Resolve a path for GitHub Pages project sites (handles subpath like /4-053-fundamentals/)
   function resolveRepoPath(p) {
     if (!p) return '';
