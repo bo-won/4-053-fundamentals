@@ -13,7 +13,7 @@ body {
 h1 {
   font-size: 1rem;
   margin: 0;
-  font-weight: 400;
+  font-weight: 600;
 }
 
 .markdown h2, .markdown h3, .markdown p {
@@ -38,6 +38,8 @@ h1 {
 
 .markdown a { color: #ff0000; text-decoration: none; }
 .markdown a:hover { text-decoration: underline; }
+
+.markdown a.submission-link { color: #0000ff; }
 
 .markdown img {
   max-width: 100%;
