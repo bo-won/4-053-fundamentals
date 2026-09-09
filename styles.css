@@ -74,5 +74,5 @@ section {
 @media (max-width: 600px) {
   .grid { grid-template-columns: 2fr; }
   section { margin-top: 1em; }
-  #course { margin-top: 3em; } /* keep some rhythm for the first section */
+  .grid section:first-child { margin-top: 3em; } /* keep some rhythm for the first section */
 }
