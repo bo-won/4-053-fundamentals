@@ -39,7 +39,7 @@ h1 {
 .markdown a { color: #ff0000; text-decoration: none; }
 .markdown a:hover { text-decoration: underline; }
 
-.markdown a.submission-link { color: #0000ff; }
+.markdown a.submission-link { color: #9000ff; }
 
 .markdown img {
   max-width: 100%;
@@ -50,6 +50,11 @@ h1 {
 
 .markdown .credit {
   font-size: 0.875rem;
+}
+
+.markdown sup {
+  font-size: 0.65em;
+  vertical-align: super;
 }
 
 .grid {
