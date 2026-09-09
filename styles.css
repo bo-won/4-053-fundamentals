@@ -39,6 +39,13 @@ h1 {
 .markdown a { color: #ff0000; text-decoration: none; }
 .markdown a:hover { text-decoration: underline; }
 
+.markdown img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
