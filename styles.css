@@ -46,6 +46,10 @@ h1 {
   margin: 1rem 0;
 }
 
+.markdown .credit {
+  font-size: 0.5rem;
+}
+
 .grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
