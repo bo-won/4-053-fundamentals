@@ -11,5 +11,6 @@
 - Exercise 5.2  
 - Exercise 6.1  
 - Exercise 6.2  
+<br>
 - [Project 1]()
 - [Project 2]()
