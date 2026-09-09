@@ -1,5 +1,15 @@
 [Course Info, Syllabus & Schedule](https://docs.google.com/document/d/1GbvKktcjpyBUGnY86xw2ZYw2vmSlwYAk1-xBOSqeK2o/edit?usp=sharing)*
 <br>
-- [Unit 1](https://docs.google.com/document/d/1yEXldoHL57sSn59S50m_3z6roAq3H7NRvfDFT0EpgdI/edit?usp=sharing)  
-- [Unit 2](https://docs.google.com/document/d/1p5OofDWPrJeXrpwHtI0-D--R3mDd_ZUhb4xo3l8xhQI/edit?usp=sharing)  
-- [Unit 3](https://docs.google.com/document/d/1qAycWh5iHEumVCFul46P_84oaOMJTQqV90sFlMWZHuY/edit?usp=sharing)*
+- Exercise 1  
+- Exercise 2.1  
+- Exercise 2.2  
+- Exercise 3.1  
+- Exercise 3.2  
+- Exercise 4.1  
+- Exercise 4.2  
+- Exercise 5.1  
+- Exercise 5.2  
+- Exercise 6.1  
+- Exercise 6.1  
+- [Project 1]()
+- [Project 2]()
