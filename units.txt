@@ -1,17 +1,17 @@
 [Course Info, Syllabus & Schedule](https://docs.google.com/document/d/1GbvKktcjpyBUGnY86xw2ZYw2vmSlwYAk1-xBOSqeK2o/edit?usp=sharing)
-<br>
-Exercises
-- Exercise 1
-- Exercise 2.1
-- Exercise 2.2  
-- Exercise 3.1  
-- Exercise 3.2  
-- Exercise 4.1  
-- Exercise 4.2  
-- Exercise 5.1  
-- Exercise 5.2  
-- Exercise 6.1  
-- Exercise 6.2
-  
-- [Project 1]()
-- [Project 2]()
+
+- Exercises
+    - Exercise 1  
+    - Exercise 2.1  
+    - Exercise 2.2  
+    - Exercise 3.1  
+    - Exercise 3.2  
+    - Exercise 4.1  
+    - Exercise 4.2  
+    - Exercise 5.1  
+    - Exercise 5.2  
+    - Exercise 6.1  
+    - Exercise 6.2
+- Projects
+    - [Project 1]()
+    - [Project 2]()
