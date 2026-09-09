@@ -18,7 +18,7 @@ h1 {
 
 .markdown h2, .markdown h3, .markdown p {
   font-size: 1rem;
-  margin: 0;
+  margin: 0 0 1rem 0;
   font-weight: 400;
   letter-spacing: 0.02em;
 }
@@ -26,6 +26,7 @@ h1 {
 .markdown ul {
   list-style: none;         /* remove default bullets */
   margin-left: 0em;       /* indent nested lists */
+  margin-top: 0em;
   padding-left: 0;          /* reset padding */
 }
 
