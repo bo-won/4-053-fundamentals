@@ -14,5 +14,5 @@
     - Exercise 6.2
 
 * Projects
-    - [A Drawing Tool for Letters]
-    - [A Design Manifesto for Design]
+    - A Drawing Tool for Letters
+    - A Design Manifesto for Design
