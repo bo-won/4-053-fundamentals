@@ -15,4 +15,3 @@
 
 * Projects
     - A Drawing Tool for Letters
-    - A Design Manifesto for Design
