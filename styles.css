@@ -31,7 +31,7 @@ h1 {
 }
 
 .markdown ul ul {
-  list-style: none;
+  list-style: "- ";
   margin-left: 1.5em; /* indentation */
   padding-left: 0;
 }
