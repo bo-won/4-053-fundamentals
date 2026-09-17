@@ -12,6 +12,8 @@
     - Exercise 5.2  
     - Exercise 6.1  
     - Exercise 6.2
+    - Exercise 7.1
+    - Exercise 7.2
 
 * Projects
     - A Drawing Tool for Letters
