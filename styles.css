@@ -85,7 +85,8 @@ section {
   .grid { grid-template-columns: 1fr 1fr; }
 }
 @media (max-width: 600px) {
-  .grid { grid-template-columns: 2fr; }
+  .grid { grid-template-columns: 1fr; }
+  #announcements { grid-column: span 1; }
   section { margin-top: 1em; }
   .grid section:first-child { margin-top: 3em; } /* keep some rhythm for the first section */
 }
