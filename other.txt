@@ -1,4 +1,4 @@
-![Welcome photo](images/week1.jpg)
+![Welcome photo](images/week1.JPG)
 - Due for Monday 9/21:  
     - Image Bank  
     - Exercise 2.2  
