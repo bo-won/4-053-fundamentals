@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  padding: 2rem;
+  padding: 1.25rem;
   font-family: Arial, sans-serif;
   font-size: 1.1rem;
   font-weight: 400;
@@ -20,7 +20,7 @@ h1 {
 
 .markdown h2, .markdown h3, .markdown p {
   font-size: 1.1rem;
-  margin: 0 0 1rem 0;
+  margin: 0 0 0.75rem 0;
   font-weight: 400;
   letter-spacing: 0.02rem;
 }
@@ -62,7 +62,7 @@ h1 {
 .grid {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
-  gap: 1rem;
+  gap: 0.75rem;
 }
 
 #announcements {
@@ -72,14 +72,14 @@ h1 {
 footer {
   position: fixed;
   bottom: 0; left: 0; right: 0;
-  padding: 0 0 2rem 2rem;
+  padding: 0 0 1.25rem 1.25rem;
   font-size: 0.85rem;
 }
 
 section { 
-    margin: 3rem 0 0 0;
+    margin: 2rem 0 0 0;
     border-top: 1px solid #000;
-    padding-top: 1rem;
+    padding-top: 0.75rem;
 }
 
 /* Responsive columns */
@@ -89,6 +89,6 @@ section {
 @media (max-width: 600px) {
   .grid { grid-template-columns: 1fr; }
   #announcements { grid-column: span 1; }
-  section { margin-top: 1em; }
-  .grid section:first-child { margin-top: 3em; } /* keep some rhythm for the first section */
+  section { margin-top: 0.75em; }
+  .grid section:first-child { margin-top: 2em; } /* keep some rhythm for the first section */
 }
