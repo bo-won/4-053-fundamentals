@@ -1,7 +1,6 @@
 ![Welcome photo](images/week1.JPG)
-- Due for Thursday 9/24:  
-    - Exercise 3.1  
-    - Readings (see syllabus, Week 3)
+- Due for Monday 9/28:  
+    - Image Bank  
 
 * Other events:
-    - [Katherine Small Gallery](https://ksmallgallery.com/) is hosting a talk on Tuesday by [Ben Barry on AI](https://ksmallgallery.com/blogs/events/pboon-why-i-m-optimistic-for-humanity-s-future-with-ai) and the future of graphic design. You are encouraged to attend!
+    - ...
