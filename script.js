@@ -49,13 +49,12 @@ document.addEventListener('DOMContentLoaded', () => {
       return;
     }
 
-    const getHero = () => document.querySelector('#other-markdown img');
+    // Skip any entry whose filename is flagged with "-x" (e.g. week5-x.JPG) —
+    // lets you keep a variant image in the images folder without it showing
+    // up in the thumbnail grid.
+    items = items.filter((item) => !/-x/i.test(item.full) && !/-x/i.test(item.thumb));
 
-    function setActive(fullSrc) {
-      gallery.querySelectorAll('img').forEach((t) => {
-        t.classList.toggle('active', t.dataset.full === fullSrc);
-      });
-    }
+    const getHero = () => document.querySelector('#other-markdown img');
 
     items.forEach((item) => {
       const thumb = document.createElement('img');
@@ -68,21 +67,9 @@ document.addEventListener('DOMContentLoaded', () => {
         if (!hero) return;
         hero.src = resolveRepoPath(item.full);
         hero.alt = item.alt || hero.alt;
-        setActive(item.full);
       });
       gallery.appendChild(thumb);
     });
-
-    // Highlight whichever thumbnail matches the hero image currently
-    // rendered from other.txt (fires once other.txt's markdown loads).
-    const otherMarkdown = document.getElementById('other-markdown');
-    if (otherMarkdown) {
-      const observer = new MutationObserver(() => {
-        const hero = getHero();
-        if (hero) setActive(hero.getAttribute('src'));
-      });
-      observer.observe(otherMarkdown, { childList: true, subtree: true });
-    }
   }
 
   initGallery();
