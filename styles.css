@@ -49,15 +49,14 @@ h1 {
 }
 
 #gallery {
-  display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  display: flex;
+  flex-wrap: wrap;
   gap: 0.5rem;
-  margin-top: 1rem;
 }
 
 #gallery img {
-  width: 100%;
-  aspect-ratio: 1 / 1;
+  width: 64px;
+  height: 64px;
   object-fit: cover;
   display: block;
   cursor: pointer;
