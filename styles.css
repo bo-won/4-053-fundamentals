@@ -57,8 +57,8 @@ h1 {
   vertical-align: super;
 }
 
-#underline {
-  text-decoration: unerline;
+.markdown #underline {
+  text-decoration: underline;
 }
 
 .grid {
