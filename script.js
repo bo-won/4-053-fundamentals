@@ -32,45 +32,4 @@ document.addEventListener('DOMContentLoaded', () => {
   }
 
   document.querySelectorAll('.markdown[data-src]').forEach(renderMarkdownFromTxt);
-
-  // Photo gallery: click a past week's thumbnail to swap the hero image
-  // shown at the top of the Announcements column.
-  async function initGallery() {
-    const gallery = document.getElementById('gallery');
-    if (!gallery) return;
-
-    let items;
-    try {
-      const res = await fetch(resolveRepoPath('images/gallery.json'), { cache: 'no-cache' });
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      items = await res.json();
-    } catch (err) {
-      console.warn('Could not load images/gallery.json:', err);
-      return;
-    }
-
-    // Skip any entry whose filename is flagged with "-x" (e.g. week5-x.JPG) —
-    // lets you keep a variant image in the images folder without it showing
-    // up in the thumbnail grid.
-    items = items.filter((item) => !/-x/i.test(item.full) && !/-x/i.test(item.thumb));
-
-    const getHero = () => document.querySelector('#other-markdown img');
-
-    items.forEach((item) => {
-      const thumb = document.createElement('img');
-      thumb.src = resolveRepoPath(item.thumb);
-      thumb.alt = item.alt || '';
-      thumb.loading = 'lazy';
-      thumb.dataset.full = item.full;
-      thumb.addEventListener('click', () => {
-        const hero = getHero();
-        if (!hero) return;
-        hero.src = resolveRepoPath(item.full);
-        hero.alt = item.alt || hero.alt;
-      });
-      gallery.appendChild(thumb);
-    });
-  }
-
-  initGallery();
 });

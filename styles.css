@@ -48,25 +48,6 @@ h1 {
   margin: 1rem 0;
 }
 
-#gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-#gallery img {
-  width: 64px;
-  height: 64px;
-  object-fit: cover;
-  display: block;
-  cursor: pointer;
-  opacity: 0.85;
-}
-
-#gallery img:hover {
-  opacity: 1;
-}
-
 .markdown .credit {
   font-size: 0.75rem;
 }
