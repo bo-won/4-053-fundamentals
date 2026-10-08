@@ -1,4 +1,5 @@
 ![Welcome photo](images/week5-1.JPG)
-- <span id="underline">Due for Thursday 10/8:</span>  
-    - Finish Exercise 5.1 (at least 4)    
-    - Readings
+- <span id="underline">Due for *Tuesday* 10/13:</span>  
+    - Finish Exercise 5.2    
+
+* Have a great long weekend!
