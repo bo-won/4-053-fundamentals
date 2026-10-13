@@ -1,8 +1,6 @@
 ![Welcome photo](images/week5-2.gif)
-- <span id="underline">Due for Tuesday 10/13:</span>  
-    - Finish Exercise 5.1 (print-out and submit a PDF [to our Dropbox](https://www.dropbox.com/scl/fo/ymb73idj3ghthj46qadxv/ANDBLlK8l40RMvhwbL79Pfg?rlkey=f5f0yuis3xv2fg3mdn2402tln&st=6s2pzdri&dl=0))
-    - Finish Exercise 5.2 (print-out + digital submission to our Dropbox)   
-    - Image bank
-    - Could everyone who scanned with Max also submit PDFs of those scans into the 5.1 dropbox? I'd like to add them to the gif :)
+- <span id="underline">Due for Thursday 10/15:</span>  
+    - Finish Exercise 6.1 (PNG to Slides, also print out)
+    - Readings (please be prepared to discuss the Umberto Eco)
 
-* Have a great long weekend! 🍁 A reminder that we meet Tuesday 10/13 at 10am, where we'll start w/ image bank and then look at your quadriptychs and 8.5 x 11" graphic flyers.
+* Class will start at MIT Museum Studio at 2pm on Thursday!
