@@ -13,7 +13,6 @@
     - [Exercise 6.1](https://docs.google.com/document/d/1bnblI3cKz9FX__ddvTM5-ke6uffiwWj7m8lMhyQ5zw4/edit?usp=sharing)  
     - [Exercise 6.2](https://docs.google.com/document/d/1dLU07EVjeKH2xy5By-xFjnyXHHDkD3uAekccSMitZqk/edit?usp=drive_link)
     - Exercise 7.1
-    - Exercise 7.2
 
 * Projects
     - A Drawing Tool for Letters
