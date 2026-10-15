@@ -1,7 +1,4 @@
-![Welcome photo](images/week5-2.gif)
-- <span id="underline">Due for Thursday 10/15:</span>  
-    - Please upload the original PDF scan of the lamination composition onto the Dropbox so I can add to the class gif :)
-    - Finish Exercise 6.1 (PNG to Slides, also print out)
-    - Readings (please be prepared to discuss the Umberto Eco)
-
-* Class will start at MIT Museum Studio at 2pm on Thursday!
+![Welcome photo](images/week6-2.JPG)
+- <span id="underline">Due for Monday 10/19:</span>  
+    - Finish Exercise 6.2 (PNG to Slides only)
+    - Make sure all of your exercise submissions are in the right areas (Dropbox, slides, physical) for midterms next week (8 min per person)
