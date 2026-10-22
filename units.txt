@@ -15,4 +15,4 @@
     - [Exercise 7.1](https://docs.google.com/document/d/1blNd7MOUaTR60xM6T5SpWwZpr2DntyT5zWDssvNeRjM/edit?usp=sharing)
 
 * Projects
-    - A Drawing Tool for Letters
+    - [A Drawing Tool for Letters](https://docs.google.com/document/d/1KvoauJjiSXQ-haoJ2gXgkTy2ktnMYa2cniFoZMKwnUI/edit?usp=sharing)
