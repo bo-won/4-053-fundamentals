@@ -48,6 +48,13 @@ h1 {
   margin: 1rem 0;
 }
 
+.markdown video {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+}
+
 .markdown .credit {
   font-size: 0.75rem;
 }

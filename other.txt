@@ -1,4 +1,4 @@
-![Welcome photo](images/week8.PNG)
+<video autoplay muted loop playsinline poster="images/week8.PNG"><source src="images/week8-1.mp4" type="video/mp4"></video>
 - <span id="underline">Due for Thursdsay 10/29:</span>  
     - Two candidates for your object alphabet: use these [slides](https://docs.google.com/presentation/d/1kcMkm6UWVsyTDRkEIgy61soIlSOHpM0LryLFa0d42ds/edit?usp=sharing)
     - Readings
