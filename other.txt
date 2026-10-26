@@ -1,4 +1,4 @@
-![Welcome photo](images/week7-1.PNG)
-- <span id="underline">Due for Monday 10/26:</span>  
-    - Exercise 7.1, printed, trimmed, and bound
-    - Image Bank
+![Welcome photo](images/week8.PNG)
+- <span id="underline">Due for Thursdsay 10/29:</span>  
+    - Two candidates for your object alphabet: use these [slides](https://docs.google.com/presentation/d/1kcMkm6UWVsyTDRkEIgy61soIlSOHpM0LryLFa0d42ds/edit?usp=sharing)
+    - Readings
