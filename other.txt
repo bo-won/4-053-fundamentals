@@ -1,3 +1,3 @@
 <video autoplay muted loop playsinline poster="images/week8.PNG"><source src="images/week8-1-web.mp4" type="video/mp4"></video>
 - <span id="underline">Due for Monday 11/2:</span>  
-    - Object progress (please have half your letters finished)—-upload [here](https://docs.google.com/presentation/d/1qgMvqWTPFzFl1Y9olvSaIKT1OS_PPdFBvf98dDCZU7w/edit?usp=sharing)
+    - Object progress (please have around half of your letters finished)—upload [here](https://docs.google.com/presentation/d/1qgMvqWTPFzFl1Y9olvSaIKT1OS_PPdFBvf98dDCZU7w/edit?usp=sharing).
