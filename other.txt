@@ -1,3 +1,3 @@
 <video autoplay muted loop playsinline poster="images/week8.PNG"><source src="images/week8-1-web.mp4" type="video/mp4"></video>
 - <span id="underline">Due for Thursday 11/12:</span>  
-    - Fill out the [partner survey](https://forms.gle/ykVuYGa2UjgvDBwR9) by tonight, Nov 9. Partners will be announced Tuesday, Nov 10.
+    - Fill out the [partner survey](https://forms.gle/ykVuYGa2UjgvDBwR9) by tonight, Nov 9. Partners will be announced Tuesday, Nov 10. After announcement, please start brainstorming your proposals to present on Monday 11/16.
